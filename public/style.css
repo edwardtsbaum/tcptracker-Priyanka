@@ -1,0 +1,26 @@
+#content_box{
+    background-color: black; 
+    border-radius: 10px; 
+    margin: 20px;
+}
+.box{
+    margin: 10px; 
+    margin-top: 10px; 
+    padding: 10px;
+}
+#box_row{
+    background-color: azure; 
+    border-radius: 10px;
+}
+#ip_ad{
+    margin-top: 10px;
+}
+.box_one{
+    margin: 10px;
+}
+#rtt{
+    margin-top: 10px;
+}
+#box_label{
+    margin: auto;
+}
